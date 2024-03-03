@@ -1,4 +1,4 @@
-⏬******************Digit Recognition******************⏬
+⏬******************Digit Recognition Using Neural Network******************⏬
 
 prerequisits: Matlab basic library
 
