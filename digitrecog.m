@@ -34,3 +34,4 @@ layers=[
    valid=TestImg.labels;
    accuracy=sum(pred == valid)/numel(valid);
 
+
