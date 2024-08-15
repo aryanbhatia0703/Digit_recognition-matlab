@@ -5,3 +5,4 @@ figure
 imshow(img) 
 label=classify(net, img);
 title(['Digit is ' char(label)])
+
