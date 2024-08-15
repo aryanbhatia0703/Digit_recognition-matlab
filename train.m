@@ -22,3 +22,4 @@ for i=1:60000
     digitcount=countupdate;    
 end
 
+
